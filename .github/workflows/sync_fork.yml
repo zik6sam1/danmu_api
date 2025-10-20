@@ -2,7 +2,6 @@ name: Fork Sync
 
 permissions:
     contents: write
-    workflows: write
 
 on:
     schedule:
